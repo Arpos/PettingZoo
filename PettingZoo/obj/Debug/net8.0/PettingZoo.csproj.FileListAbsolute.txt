@@ -1,0 +1,14 @@
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.deps.json
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.runtimeconfig.json
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.dll
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/bin/Debug/net8.0/PettingZoo.pdb
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfoInputs.cache
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfo.cs
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.csproj.CoreCompileInputs.cache
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.dll
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/refint/PettingZoo.dll
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.pdb
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/PettingZoo.genruntimeconfig.cache
+/home/arp/aCoding/Learning/PettingZoo/PettingZoo/obj/Debug/net8.0/ref/PettingZoo.dll
