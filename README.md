@@ -10,7 +10,7 @@ Learning objectives
     Create methods that accept require and optional parameters
     Use values returned from methods
 
-﻿- There will be three visiting schools
+- There will be three visiting schools
     - School A has six visiting groups
     - School B has three visiting groups
     - School C has two visiting groups
